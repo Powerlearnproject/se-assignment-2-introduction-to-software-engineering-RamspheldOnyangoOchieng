@@ -304,6 +304,7 @@ Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
 Role of a Software Project Manager
+
 A software project manager (SPM) is responsible for planning, executing, and overseeing software development projects. They ensure that projects are completed on time, within budget, and to the desired quality standards. The role involves coordinating the efforts of the development team, managing resources, and communicating with stakeholders.
 
 Key Responsibilities
@@ -341,6 +342,7 @@ Timeline Management
 Managing the project schedule to ensure timely delivery of milestones and the final product.
 Example: Using project management software like Jira or Trello to track progress and deadlines.
 Reference: "Time Management for Project Managers" - PMI.org.
+
 
 
 Key Challenges
